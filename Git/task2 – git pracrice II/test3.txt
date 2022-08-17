@@ -1,5 +1,10 @@
 #Commit 1
+<<<<<<< HEAD
 # Commit 2
 #Commit 3
 #Commit 4
 
+=======
+#Commit 2
+#Commit 3
+>>>>>>> ed9ba18 (	../Task1/Screenshot_1.png)
